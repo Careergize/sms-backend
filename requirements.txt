@@ -1,0 +1,4 @@
+Django>=5.2.8,<5.3
+djangorestframework>=3.17,<4
+django-cors-headers>=4.9,<5
+reportlab>=4,<5

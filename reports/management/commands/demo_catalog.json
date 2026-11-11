@@ -1,0 +1,174 @@
+[
+  {
+    "slug": "learner",
+    "kind": "programme",
+    "name": "Learner’s Programme",
+    "label": "Start with the basics",
+    "summary": "Build a solid foundation in car controls, road awareness and everyday manoeuvres.",
+    "skills": [
+      "Vehicle controls and smooth starts",
+      "Steering, braking and lane position",
+      "Turns, reversing and basic parking"
+    ],
+    "fee": 5406,
+    "hours": 16
+  },
+  {
+    "slug": "super-learner",
+    "kind": "programme",
+    "name": "Super Learner’s Programme",
+    "label": "Build more confidence",
+    "summary": "Spend more time behind the wheel and get comfortable with busier roads and tighter spaces.",
+    "skills": [
+      "Foundational driving skills",
+      "Junctions, lane changes and traffic",
+      "Parking and independent decision-making"
+    ],
+    "fee": 7420,
+    "hours": 21
+  },
+  {
+    "slug": "extended",
+    "kind": "programme",
+    "name": "SMS Extended Programme",
+    "label": "Take more time to practise",
+    "summary": "Work through a wider variety of roads and situations at a pace you can settle into.",
+    "skills": [
+      "Mixed road and traffic conditions",
+      "Hill starts and challenging parking",
+      "Skills review and test preparation"
+    ],
+    "fee": 9540,
+    "hours": 26
+  },
+  {
+    "slug": "advanced",
+    "kind": "programme",
+    "name": "Advanced & Refresher Programme",
+    "label": "Get back behind the wheel",
+    "summary": "Refresh your skills and focus on the situations you want to handle with more confidence.",
+    "skills": [
+      "A review of your current skills",
+      "Targeted practice for everyday routes",
+      "Defensive driving habits"
+    ]
+  },
+  {
+    "slug": "two-wheeler",
+    "kind": "programme",
+    "name": "Two-Wheeler Training",
+    "label": "MCWG / MCWOG",
+    "summary": "Ask about training for geared motorcycles or scooters.",
+    "skills": [
+      "Balance and low-speed control",
+      "Progressive braking and safe turns",
+      "Traffic observation and road position"
+    ]
+  },
+  {
+    "slug": "licence",
+    "kind": "service",
+    "name": "RTO Licence Assistance",
+    "summary": "Ask about learner and permanent licence support for cars and two-wheelers, including paperwork and preparing for the practical test."
+  },
+  {
+    "slug": "simulator",
+    "kind": "service",
+    "name": "Simulator Training",
+    "summary": "Explore a low-pressure way to practise basic controls and routines before moving onto the road. Ask about simulator availability."
+  },
+  {
+    "slug": "defensive",
+    "kind": "service",
+    "name": "Defensive Driving",
+    "summary": "Develop habits for spotting hazards early, maintaining space and adapting to changing traffic."
+  },
+  {
+    "slug": "theory",
+    "kind": "service",
+    "name": "Theory & Road Safety",
+    "summary": "Get familiar with road signs, right of way, safe following distances and the checks to make before you start driving."
+  },
+  {
+    "slug": "cars",
+    "kind": "extra",
+    "name": "New & Preowned Cars",
+    "summary": "Tell us what you want to buy or sell and ask about the help available.",
+    "skills": [
+      "Buying a new car",
+      "Finding a preowned car",
+      "Selling your current car"
+    ]
+  },
+  {
+    "slug": "tours",
+    "kind": "extra",
+    "name": "Tours & Travels",
+    "summary": "Share your dates, itinerary and vehicle needs to enquire about a trip.",
+    "skills": [
+      "Driver for your own car",
+      "Car and driver enquiries",
+      "City, airport and outstation travel"
+    ]
+  },
+  {
+    "slug": "confidence",
+    "kind": "article",
+    "name": "Getting comfortable behind the wheel",
+    "summary": "Small steps to make your first few lessons feel more manageable.",
+    "body": [
+      "Start by adjusting the seat and mirrors while parked. Take a moment to identify the pedals, gear selector and indicators so you can find them without looking down.",
+      "Practise one skill at a time with your instructor. A quiet route makes it easier to repeat smooth starts and stops before adding junctions or busier traffic."
+    ]
+  },
+  {
+    "slug": "parking",
+    "kind": "article",
+    "name": "How to practise parking",
+    "summary": "A simple routine for low-speed manoeuvres.",
+    "body": [
+      "Pick an open practice area and use clear reference points. Move slowly enough to stop as soon as you lose sight of your surroundings.",
+      "Check mirrors and blind spots throughout the manoeuvre. Reset and try again if the angle feels wrong. Ask your instructor to demonstrate from the same starting position."
+    ]
+  },
+  {
+    "slug": "test",
+    "kind": "article",
+    "name": "Preparing for your driving test",
+    "summary": "What to practise before the big day.",
+    "body": [
+      "Practise the full routine from getting into the car to pulling away safely. Build the habit of checking mirrors and signalling before you change position.",
+      "Ask your instructor for a mock drive with fewer prompts. Make a short list of the manoeuvres that still need practice and confirm current test requirements with your local licensing office."
+    ]
+  },
+  {
+    "slug": "faq-1",
+    "kind": "faq",
+    "name": "Can I start with no driving experience?",
+    "summary": "Yes. The learner programme is designed around fundamentals like setting up the car, working the controls and building confidence step by step."
+  },
+  {
+    "slug": "faq-2",
+    "kind": "faq",
+    "name": "How much do lessons cost?",
+    "summary": "Use the course enquiry form to request the current fee, number of sessions and any additional charges for your chosen programme."
+  },
+  {
+    "slug": "faq-3",
+    "kind": "faq",
+    "name": "Can I learn in an automatic car?",
+    "summary": "Mention your preferred transmission when you enquire so the school can confirm the vehicles available for your lessons."
+  },
+  {
+    "slug": "faq-4",
+    "kind": "faq",
+    "name": "Can I get help with my driving licence?",
+    "summary": "Choose RTO Licence Assistance when you enquire and specify whether you need help with a learner licence, practical test or two-wheeler licence."
+  },
+  {
+    "slug": "faq-5",
+    "kind": "faq",
+    "name": "Can I book a refresher lesson?",
+    "summary": "Choose the Advanced & Refresher Programme and tell us what you want to practise, such as parking, junctions or driving in heavy traffic."
+  }
+]
